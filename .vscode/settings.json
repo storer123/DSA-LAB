@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "Q1.C": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "stdio.h": "c",
+        "random": "c",
+        "q3": "cpp"
+    }
+}

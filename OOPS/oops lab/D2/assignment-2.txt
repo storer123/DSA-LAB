@@ -1,0 +1,15 @@
+Assignment-2
+
+		c++ program using function
+Q1.     C++ program to swap two number using function
+Q2.	    C++ Program to Display Prime Numbers Between Two Intervals Using Functions
+Q3. 	C++ program to Calculate Factorial of a Number Using Recursion
+Q4.	    C++ Program to Convert Binary Number to Decimal and vice-versa using function
+		C++ program using 1D and 2D Array 
+Q5.	    C++ Program to Calculate Average of Numbers Using Arrays
+Q6.	    C++ program to Find the largest three elements in an array
+Q7.	    C++ program to find the second smallest elements in a given array of integers.
+Q8.	    C++ program to find the most occurring element in an array of integers 
+Q9.	    C++ Program to Multiply two Matrices by Passing Matrix to Function
+Q10.	C++ Program to Find Transpose of a Matrix
+
