@@ -26,6 +26,5 @@ int main(){
         cout<<m<<"\t";
         m+=2;
     }
-    
     return 0;
 }

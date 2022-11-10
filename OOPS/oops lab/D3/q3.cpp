@@ -1,4 +1,3 @@
-
 #include<iostream>
 using namespace std;
 void swap(int *b,int *h){
@@ -11,8 +10,6 @@ void swap(double *b,double *h){
         *b=*h;
         *h=t;
 }
-
-
 int main() {
     int a,b;double c,d;
     cout<<"enter the 2 value (whole no. only)\n";

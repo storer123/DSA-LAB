@@ -151,7 +151,7 @@ void deleteAtKey(struct node **head){
     //temp1=(struct node *)malloc(sizeof(struct node));
     printf("key not found !");
     temp=*head;
-    while(temp){printf("2key not found !");
+    while(temp){printf("key not found !");
         if ((*head)->data==key){
             *head=temp->next;
             free(temp);traverse(*head);

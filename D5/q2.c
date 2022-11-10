@@ -9,7 +9,7 @@ struct node {
 void display();
 void create();
 typedef struct node Node;
-Node *head=NULL,*tail=NULL;
+Node *head=NULL,*tail=NULL; 
 int main(){
     create();
     display();
